@@ -1,6 +1,6 @@
 # RubyAbstractClass
 
-This gem is going to fix the problem with Polymorphism in Ruby language. You can easily define abstract methods and abstract classes which were, unfortunately, missing in Ruby originally. Now you can define your strategy and allow subclass to implement it. Enjoy and feel free to ask any questions via issues section here in GitHub.
+This gem is going to fix the problem with Polymorphism in Ruby language. You can easily define abstract methods and abstract classes which were, unfortunately, missing in Ruby originally. Now you can define your strategy and allow subclass to implement it. Enjoy the implementation of ruby abstract class in ruby language and abstract method in ruby as well and feel free to ask any questions via issues section here in GitHub.
 
 ## Installation
 
